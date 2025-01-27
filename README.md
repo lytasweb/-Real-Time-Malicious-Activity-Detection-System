@@ -22,7 +22,7 @@ This repository contains a Flask-based web application for real-time network tra
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+https://github.com/lytasweb/-Real-Time-Malicious-Activity-Detection-System.git
 ```
 
 ### 2. Install Dependencies
